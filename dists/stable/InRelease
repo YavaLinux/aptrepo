@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: yavalinux
+Label: yavalinux
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 
+Components: main
+Description: Yavalinux software repository
+Date: Sun, 28 Apr 2024 16:08:55 +0000
+MD5Sum:
+ d1456ad5955831e4d37bedf2a7551a17 833 Release.gpg
+ 166336ace43cf96369ea0207ba8a33a1 668 main/binary-amd64/Packages.gz
+ ce60e90027dd9285fee130f97b102147 1602 main/binary-amd64/Packages
+ eb93c8c64cacff8c4da815071f0e3d2d 1962 InRelease
+SHA1:
+ 2488d8e2f22ca43f386955c4aafdb473276e415e 833 Release.gpg
+ a87ca4e25ba1c78720d4780dcdb170c33150ecee 668 main/binary-amd64/Packages.gz
+ af76308f4b17b058c0deb383c9796b2a77fe149d 1602 main/binary-amd64/Packages
+ d8053ef3a478bac6d8670c95e46f83580accebac 1962 InRelease
+SHA256:
+ 6dbf443b93b34c24616f630f62b9c2960f8995de1e5a95407b58c6e895aef984 833 Release.gpg
+ 2c9ceed9256ee117892687cbe85402bb5a7970e37dc99d89452d775dcb1bcdbb 668 main/binary-amd64/Packages.gz
+ 37c40e7b95a00b9475f4e283f8076ace63166dc37a1f0948a30ccd566cff4e54 1602 main/binary-amd64/Packages
+ 2bbf4f9c46913572eed5f14cfcf62c589bdd88e2bb5afadc7a3c1de54afe8a9f 1962 InRelease
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEukNfP8st7LNAgxXmPRcFoTRYZwUFAmYudJcACgkQPRcFoTRY
+ZwXaQhAAjdgSa1u/t1YW77wUUPkJVaaQnB0MEfYzy71QKWhrsKesEadBeTa17BNZ
+sUVzurFrPbAX+cKNyOmuQ7IoP66swdv4tF/0xPfJKe46xd1uYC9Hm/McShBlHKks
+3isu90NxqdKEfEtV3288WJCzZAMK59+J3HsfCbo4Hs0Wva37Ta5CqrQlrBZVA9iS
+NtTEndx0Lz3gXAkmkwOng57T+5KNa8WUxZbLPYC7mHpCPODpiPw6msOgrUETbBmV
+mJPGDTVFcq/go7frrfPrKCefc89ndAiSZ/uogwYkWQe2SGbE5uzo2UrtU0Ho8YnF
+/Lx5L1QUGGN1Yh4yZtZW2O51mhdZIbjwN/O8BaIBuoBT0gvJ8xWQNi+XZj+VpDqY
+HYjvna2QgJftvVs7QzcpFNGQR2fgntlR97RCdhDmrEz/auJGuC0m7ma0nWxM1nBF
+zXpsShfAtcwbML5aTbopY3Ndu2bBM565105lFkbYSJvAT/bl4/0eBD6zluWR7miS
+x2REO0aU6nxTWqQ022ns22xO5TptFXJbDsyzSj5+DBFDnUh8QBSeyh/xkJZAwwdk
+bl29nGDKhXiYoUT/eciz3FKTtMhJVkEBudV0LlsPO1civ7mMXoM/rfyoN0fZGidB
+gy+lRg7veWfaE7sysr0R1BhwM4NC2gXe64nSwkrCTwATrKVcN+M=
+=jsK/
+-----END PGP SIGNATURE-----

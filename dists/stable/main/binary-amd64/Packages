@@ -1,0 +1,48 @@
+Package: ainyava-app-configs
+Version: 0.0.1
+Architecture: all
+Maintainer: Hamed Mahmoudkhnai <ainyava@gmail.com>
+Installed-Size: 204
+Filename: pool/main/ainyava-app-configs_0.0.1_all.deb
+Size: 50158
+MD5sum: 4ffbf782ed4ac63329c540c4a9088fc1
+SHA1: 31eda72a0eb0d219ca2635ff38d95ad569bfc085
+SHA256: 50952294ab4c1df72f2c5a8acff2d4b73d3b366ccf3bd9536d1b2b3e3be5aada
+Description: Ainyava theme for Gnome
+
+Package: ainyava-gnome
+Version: 0.0.3
+Architecture: all
+Maintainer: Hamed Mahmoudkhnai <ainyava@gmail.com>
+Installed-Size: 6242
+Filename: pool/main/ainyava-gnome_0.0.3_all.deb
+Size: 1666430
+MD5sum: 4e889d87747afb2b1a500876dfeb2491
+SHA1: 47c216c5a9a5467e034b7a0194acacba296e904a
+SHA256: 838d550251f76808ce544100595eab3f320e466b0b23fac9e5a849bac1489f0b
+Description: Ainyava theme for Gnome
+
+Package: ainyava-gnome-configs
+Version: 0.0.1
+Architecture: all
+Maintainer: Hamed Mahmoudkhnai <ainyava@gmail.com>
+Installed-Size: 23
+Filename: pool/main/ainyava-gnome-configs_0.0.1_all.deb
+Size: 4104
+MD5sum: 386cfa3d0ac12f610828c1e0f7dfc1c8
+SHA1: 69afbb6c2e3b741a8a32964b1dbe87dffea8e07b
+SHA256: c0224f6f5e4108253d08c01beb8029e7485a9d98c1850eaa4b6ac9e23783b881
+Description: Ainyava Gnome configurations
+
+Package: ainyava-gnome-extensions
+Version: 0.0.2
+Architecture: all
+Maintainer: Hamed Mahmoudkhnai <ainyava@gmail.com>
+Installed-Size: 2540
+Filename: pool/main/ainyava-gnome-extensions_0.0.2_all.deb
+Size: 889530
+MD5sum: b97fead3ee0d9a362c665949ee9a7c05
+SHA1: 25a977a79e25a25db50b1f60c0321c32bd260225
+SHA256: e80695113fe89e81d2923da34f429ed786cc619c0e3c714d90fc4c6deab80cc7
+Description: Ainyava theme for Gnome
+
